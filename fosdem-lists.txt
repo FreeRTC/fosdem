@@ -21,3 +21,9 @@ discuss-webrtc@googlegroups.com
 general@lists.tox.chat
 support@pidgin.im
 ring@lists.savoirfairelinux.net
+csipsimple-users@googlegroups.com
+sipdroid-users@googlegroups.com
+users@lists.opensips.org
+ejabberd@jabber.ru
+jabberd2@lists.xiaoka.com
+buddycloud-dev@googlegroups.com
