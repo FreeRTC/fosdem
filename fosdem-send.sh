@@ -9,6 +9,7 @@ do
   cat $MSG_BODY | \
     mail -s "$SUBJECT" \
         -a "From: Daniel Pocock <daniel@pocock.pro>" \
+        -a "Content-Type: text/plain; charset=UTF-8" \
         "$REPLY"
 
 done
