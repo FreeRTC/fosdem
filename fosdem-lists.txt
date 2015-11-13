@@ -27,3 +27,4 @@ users@lists.opensips.org
 ejabberd@jabber.ru
 jabberd2@lists.xiaoka.com
 buddycloud-dev@googlegroups.com
+ekiga-list@gnome.org
