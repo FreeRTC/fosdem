@@ -28,3 +28,7 @@ ejabberd@jabber.ru
 jabberd2@lists.xiaoka.com
 buddycloud-dev@googlegroups.com
 ekiga-list@gnome.org
+standards@xmpp.org
+summit@xmpp.org
+members@xmpp.org
+xmppwg@ietf.org
