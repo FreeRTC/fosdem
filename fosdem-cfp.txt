@@ -166,6 +166,6 @@ The dev-room administration team:
 
   Daniel Pocock <daniel@pocock.pro>
   Ralph Meijer <ralphm@ik.nu>
-  Saúl Ibarra Corretgé <saul@ag-projects.com>
+  Saúl Ibarra Corretgé <saghul@gmail.com>
   Iain R. Learmonth <irl@debian.org>
 
