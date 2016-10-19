@@ -20,7 +20,7 @@ rtcweb@ietf.org
 discuss-webrtc@googlegroups.com
 general@lists.tox.chat
 support@pidgin.im
-ring@lists.savoirfairelinux.net
+ring@gnu.org
 csipsimple-users@googlegroups.com
 sipdroid-users@googlegroups.com
 users@lists.opensips.org
