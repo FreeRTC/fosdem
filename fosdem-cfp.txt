@@ -1,7 +1,7 @@
 
 FOSDEM is one of the world's premier meetings of free software developers,
-with over five thousand people attending each year.  FOSDEM 2016
-takes place 30-31 January 2016 in Brussels, Belgium.  http://fosdem.org
+with over five thousand people attending each year.  FOSDEM 2017
+takes place 4-5 February 2017 in Brussels, Belgium.  http://fosdem.org
 
 This email contains information about:
 - Real-Time communications dev-room and lounge,
@@ -21,39 +21,38 @@ to the previous XMPP and telephony dev-rooms.  We are looking for speakers
 for the dev-room and volunteers and participants for the tables in the
 Real-Time lounge.
 
-The dev-room is only on Saturday, 30 January 2016.  The lounge will
+The dev-room is only on Saturday, 4 February 2017.  The lounge will
 be present for both days.
 
 To discuss the dev-room and lounge, please join the FSFE-sponsored
 Free RTC mailing list: https://lists.fsfe.org/mailman/listinfo/free-rtc
 
+To be kept aware of major developments in Free RTC, without being on the
+discussion list, please join the Free-RTC Announce list:
+http://lists.freertc.org/mailman/listinfo/announce
+
 Speaking opportunities
 ----------------------
 
-Note: if you used Pentabarf before, please use the same account/username
+Note: if you used FOSDEM Pentabarf before, please use the same account/username
 
-Main track: the deadline for main track presentations is midnight
-today, 30 October.  Leading developers in the Real-Time Communications
+Main track: the deadline for main track presentations is 23:59 UTC
+31 October.  Leading developers in the Real-Time Communications
 field are encouraged to consider submitting a presentation to
 the main track at https://fosdem.org/submit
 
-Real-Time Communications dev-room: deadline 27 November
+Real-Time Communications dev-room: deadline 23:59 UTC on 17 November.
 Please also use the Pentabarf system to submit a talk proposal for the
 dev-room.  On the "General" tab, please look for the "Track" option and
-choose "Real-Time devroom".  https://penta.fosdem.org/submission/FOSDEM16/
+choose "Real-Time devroom".  https://penta.fosdem.org/submission/FOSDEM17/
 
-Other dev-rooms: some speakers may find their topic is in the scope of more
-than one dev-room.  It is permitted to apply to more than one dev-room but
-please be kind enough to tell us if you do this.  You can find the full
-list of dev-rooms at https://www.fosdem.org/2016/schedule/tracks/
-
-Lightning talks: deadline 27 November
-The lightning talks are an excellent opportunity to introduce
-a wider audience to your project.  Given that dev-rooms are
-becoming increasingly busy, all speakers are encouraged to
-consider applying for a lightning talk as well as a slot in the dev-room.
-On the "General" tab, please look for the "Track" option and
-choose "Lightning Talks".  https://fosdem.org/submit
+Other dev-rooms and lightning talks: some speakers may find their topic is
+in the scope of more than one dev-room.  It is encouraged to apply to more
+than one dev-room and also consider proposing a lightning talk, but please
+be kind enough to tell us if you do this.
+You can find the full list of dev-rooms at
+   https://www.fosdem.org/2017/schedule/tracks/
+and apply for a lightning talk at https://fosdem.org/submit
 
 First-time speaking?
 --------------------
@@ -93,6 +92,7 @@ The CC-BY license is used.
 
 For any questions, please join the FSFE-sponsored
 Free RTC mailing list: https://lists.fsfe.org/mailman/listinfo/free-rtc
+or send private queries to us at fosdem-rtc-admin@freertc.org
 
 Volunteers needed
 =================
@@ -109,27 +109,27 @@ volunteers:
   Saturday night dinner and any other expenses
 - circulating this Call for Participation to other mailing lists
 
-FOSDEM is made possible by volunteers and if you have time to contribute,
-please feel free to get involved through https://volunteers.fosdem.org/
+See the mailing list discussion for more details:
+https://lists.fsfe.org/pipermail/free-rtc/2016-October/000285.html
 
 Related events - XMPP and RTC summits
 =====================================
 
 The XMPP Standards Foundation (XSF) has traditionally held a summit
 in the days before FOSDEM.  There is discussion about a similar
-summit taking place on 28 and 29 January 2016
-http://wiki.xmpp.org/web/Summit_19 - please join the mailing
+summit taking place on 2 and 3 February 2017
+http://wiki.xmpp.org/web/Summit_21 - please join the mailing
 list for details: http://mail.jabber.org/mailman/listinfo/summit
 
 We are also considering a more general RTC or telephony summit,
-potentially on 29 January.  Please join the Free-RTC mailing list
-and send an email if you would be interested in participating,
-sponsoring or hosting such an event.
+potentially in collaboration with the XMPP summit.
+Please join the Free-RTC mailing list and send an email if you would
+be interested in participating, sponsoring or hosting such an event.
 
 Social events and dinners
 =========================
 
-The traditional FOSDEM beer night occurs on Friday, 29 January
+The traditional FOSDEM beer night occurs on Friday, 3 February.
 
 On Saturday night, there are usually dinners associated with
 each of the dev-rooms.  Most restaurants in Brussels are not so
