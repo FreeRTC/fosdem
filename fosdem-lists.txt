@@ -13,7 +13,6 @@ linphone-users@nongnu.org
 turn-server-project-rfc5766-turn-server@googlegroups.com
 jssip@googlegroups.com
 lumicall-users@lists.lumicall.org
-users@lists.jscommunicator.org
 telepathy@lists.freedesktop.org
 freedombox-discuss@lists.alioth.debian.org
 rtcweb@ietf.org
