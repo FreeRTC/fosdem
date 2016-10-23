@@ -1,14 +1,15 @@
 
 FOSDEM is one of the world's premier meetings of free software developers,
 with over five thousand people attending each year.  FOSDEM 2017
-takes place 4-5 February 2017 in Brussels, Belgium.  http://fosdem.org
+takes place 4-5 February 2017 in Brussels, Belgium.  https://fosdem.org
 
 This email contains information about:
 - Real-Time communications dev-room and lounge,
 - speaking opportunities,
 - volunteering in the dev-room and lounge,
 - related events around FOSDEM, including the XMPP summit,
-- social events (the legendary FOSDEM Beer Night and Saturday night dinners),
+- social events (the legendary FOSDEM Beer Night and Saturday night dinners
+    provide endless networking opportunities),
 - the Planet aggregation sites for RTC blogs
 
 Call for participation - Real Time Communications (RTC)
@@ -44,7 +45,7 @@ choose "Real-Time devroom".  https://penta.fosdem.org/submission/FOSDEM17/
 Other dev-rooms and lightning talks: some speakers may find their topic is
 in the scope of more than one dev-room.  It is encouraged to apply to more
 than one dev-room and also consider proposing a lightning talk, but please
-be kind enough to tell us if you do this.
+be kind enough to tell us if you do this by filling out the notes in the form.
 You can find the full list of dev-rooms at
    https://www.fosdem.org/2017/schedule/tracks/
 and apply for a lightning talk at https://fosdem.org/submit
