@@ -40,3 +40,5 @@ opalvoip-user@lists.sourceforge.net,https://lists.sourceforge.net/lists/listinfo
 mumble-packaging@lists.sourceforge.net,https://lists.sourceforge.net/lists/listinfo/mumble-packaging,
 jwchat-devel@lists.sourceforge.net,https://lists.sourceforge.net/lists/listinfo/jwchat-devel,
 jaxl@googlegroups.com,https://groups.google.com/forum/#!forum/jaxl,
+homer-discuss@googlegroups.com,https://groups.google.com/forum/#!forum/homer-discuss,
+sems-users@googlegroups.com,https://groups.google.com/forum/#!forum/sems-users,
