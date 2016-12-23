@@ -25,11 +25,12 @@ minutes.  Please tell us if you really need more than 20 minutes, we
 need to know by 30 December.
 
 - please update your personal description and talk description in the
-pentabarf system before we make them public.  You can use HTML to create
-links from the descriptions to your own project web-sites and we would
-encourage you to make good use of this.  You can continuously update the
-profile after it goes public, the site is refreshed from time to time
-throughout the day and then it is archived when FOSDEM finishes.
+pentabarf system before we make them public.  You can use the wiki markup
+syntax[2] supported by Pentabarf to create links from the descriptions
+to your own project web-sites and we would encourage you to make good use
+of this.  You can continuously update the profile after it goes public,
+the site is refreshed from time to time throughout the day and then it
+is archived when FOSDEM finishes.
 
 - we will promote the schedule (both main track and dev-room) over the
 next two weeks, using blogs, the Free-RTC mailing list and the FOSDEM
@@ -54,7 +55,7 @@ whenever possible
 at FOSDEM
 https://lists.fsfe.org/mailman/listinfo/free-rtc
 
-- Please be aware FOSDEM has adopted a Code of Conduct[2] and the
+- Please be aware FOSDEM has adopted a Code of Conduct[3] and the
 dev-room administrators fully support this.  As volunteers and speakers,
 people will be looking to our example.  Furthermore, this means that if
 something awkward happens, it comes down to us to be first to act and
@@ -71,6 +72,6 @@ Daniel
 
 
 1. https://danielpocock.com/fosdem-2017-rtc-cfp
-
-2. https://fosdem.org/2016/practical/conduct/
+2. http://pentabarf.org/Markup_Language
+3. https://fosdem.org/2016/practical/conduct/
 
