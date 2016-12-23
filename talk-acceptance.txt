@@ -1,0 +1,76 @@
+
+We'd like to thank you for your enthusiasm to participate and confirm
+that (if you are not in the main track) we are accepting your talk in
+the dev-room.  (For those who submitted multiple proposals, we are
+accepting the one negotiated with you).
+
+Dev-room talks are all day on Saturday, 4 February.  What's more, RTC will
+be in the main track again this year and we also have the Real-time Lounge
+again in the K building on both days.
+
+What now?
+
+- you can use the address
+fosdem-rtc-admin@freertc.org to contact the dev-room admins
+about talks - please reply on that address
+
+- please reply to advise if you are still coming or not
+
+- please tell us (or update your notes in pentabarf) if you have
+availability / time constraints on 4 February
+
+- main tracks are scheduled, dev-room talks are not.  Main tracks are 50
+minutes.  All dev-room talks are 20 minutes but we will give some 30
+minutes.  Please tell us if you really need more than 20 minutes, we
+need to know by 30 December.
+
+- please update your personal description and talk description in the
+pentabarf system before we make them public.  You can use HTML to create
+links from the descriptions to your own project web-sites and we would
+encourage you to make good use of this.  You can continuously update the
+profile after it goes public, the site is refreshed from time to time
+throughout the day and then it is archived when FOSDEM finishes.
+
+- we will promote the schedule (both main track and dev-room) over the
+next two weeks, using blogs, the Free-RTC mailing list and the FOSDEM
+web site, please help to share the links within your community as they
+appear
+
+- if you would like to be included in any of the planet sites, please
+contact Ralph or myself as described in the call for participation[1]
+
+- everybody is welcome to participate in the Real-Time lounge on both
+days of FOSDEM, please join the discussion on the Free-RTC list to
+coordinate
+
+- it would be great to have one or more dinners for the RTC community on
+4 February, please join the discussion on the Free-RTC list to coordinate
+
+- you can use the address fosdem2017-rtc-speakers@freertc.org to
+contact all speakers, but please use the public Free-RTC mailing list
+whenever possible
+
+- please use the Free-RTC list to discuss any other aspect of RTC
+at FOSDEM
+https://lists.fsfe.org/mailman/listinfo/free-rtc
+
+- Please be aware FOSDEM has adopted a Code of Conduct[2] and the
+dev-room administrators fully support this.  As volunteers and speakers,
+people will be looking to our example.  Furthermore, this means that if
+something awkward happens, it comes down to us to be first to act and
+show leadership.  Please feel free to ask any questions about this topic
+through the main FOSDEM mailing list.
+
+We are delighted to have received such exciting proposals and look
+forward to collaborating with you over the weeks ahead.
+
+Regards,
+
+Daniel
+
+
+
+1. https://danielpocock.com/fosdem-2017-rtc-cfp
+
+2. https://fosdem.org/2016/practical/conduct/
+
