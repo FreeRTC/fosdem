@@ -20,29 +20,35 @@ about talks - please reply on that address
 availability / time constraints on 4 February
 
 - main tracks are scheduled, dev-room talks are not.  Main tracks are 50
-minutes.  All dev-room talks are 20 minutes but we will give some 30
-minutes.  Please tell us if you really need more than 20 minutes, we
-need to know by 30 December.
+minutes.  All RTC dev-room talks are 20 minutes this year with a 5 minute
+break between speakers.
 
 - please update your personal description and talk description in the
 pentabarf system before we make them public.  You can use the wiki markup
-syntax[2] supported by Pentabarf to create links from the descriptions
+syntax[1] supported by Pentabarf to create links from the descriptions
 to your own project web-sites and we would encourage you to make good use
 of this.  You can continuously update the profile after it goes public,
 the site is refreshed from time to time throughout the day and then it
 is archived when FOSDEM finishes.
 
 - we will promote the schedule (both main track and dev-room) over the
-next two weeks, using blogs, the Free-RTC mailing list and the FOSDEM
+next few weeks, using blogs, the Free-RTC mailing list and the FOSDEM
 web site, please help to share the links within your community as they
-appear
-
-- if you would like to be included in any of the planet sites, please
-contact Ralph or myself as described in the call for participation[1]
+appear.
 
 - everybody is welcome to participate in the Real-Time lounge on both
 days of FOSDEM, please join the discussion on the Free-RTC list to
 coordinate
+
+- there will be a Free-RTC Summit on Friday, 3 February, the day before
+FOSDEM.  This is actually the final day of the XMPP Summit[2]
+which takes place 2 and 3 February.  Topics in the Free-RTC Summit will
+be of mutual interest to XMPP and developers from other communities.
+More information will be provided on the XMPP Summit mailing list[3]
+and the Free-RTC mailing list[4].
+
+- if you would like to be included in any of the planet sites, please
+contact Ralph or myself as described in the call for participation[5]
 
 - it would be great to have one or more dinners for the RTC community on
 4 February, please join the discussion on the Free-RTC list to coordinate
@@ -51,11 +57,10 @@ coordinate
 contact all speakers, but please use the public Free-RTC mailing list
 whenever possible
 
-- please use the Free-RTC list to discuss any other aspect of RTC
+- please use the Free-RTC list[4] to discuss any other aspect of RTC
 at FOSDEM
-https://lists.fsfe.org/mailman/listinfo/free-rtc
 
-- Please be aware FOSDEM has adopted a Code of Conduct[3] and the
+- Please be aware FOSDEM has adopted a Code of Conduct[6] and the
 dev-room administrators fully support this.  As volunteers and speakers,
 people will be looking to our example.  Furthermore, this means that if
 something awkward happens, it comes down to us to be first to act and
@@ -70,8 +75,10 @@ Regards,
 Daniel
 
 
-
-1. https://danielpocock.com/fosdem-2017-rtc-cfp
-2. http://pentabarf.org/Markup_Language
-3. https://fosdem.org/2016/practical/conduct/
+1. http://pentabarf.org/Markup_Language
+2. https://wiki.xmpp.org/web/Summit_21
+3. http://mail.jabber.org/mailman/listinfo/summit
+4. https://lists.fsfe.org/mailman/listinfo/free-rtc
+5. https://danielpocock.com/fosdem-2017-rtc-cfp
+6. https://fosdem.org/2016/practical/conduct/
 
