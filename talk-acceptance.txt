@@ -19,8 +19,9 @@ about talks - please reply on that address
 
 - please reply to advise if you are still coming or not
 
-- please tell us (or update your notes in pentabarf) if you have
-availability / time constraints on 4 February
+- if you have availability / time constraints on 4 February, please
+update the notes for us in Pentabarf and send us an email if your
+allocated time slot needs to be changed
 
 - please update your personal description and talk description in the
 pentabarf system before we make them public.  You can use the wiki markup
