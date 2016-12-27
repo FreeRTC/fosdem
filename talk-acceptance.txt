@@ -1,8 +1,8 @@
 
 We'd like to thank you for your enthusiasm to participate and confirm
-that (if you are not in the main track) we are accepting your talk in
-the dev-room.  (For those who submitted multiple proposals, we are
-accepting the one negotiated with you).
+that we are accepting your talk in the Real Time Communicationsdev-room.
+(For those who submitted multiple proposals, we are accepting the one
+negotiated with you).
 
 Dev-room talks are all day on Saturday, 4 February.  What's more, RTC will
 be in the main track again this year and we also have the Real-time Lounge
@@ -72,8 +72,7 @@ forward to collaborating with you over the weeks ahead.
 
 Regards,
 
-Daniel
-
+Daniel, Iain, Ralph and Saúl
 
 1. http://pentabarf.org/Markup_Language
 2. https://wiki.xmpp.org/web/Summit_21
