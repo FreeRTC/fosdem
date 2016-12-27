@@ -10,6 +10,9 @@ again in the K building on both days.
 
 What now?
 
+- all RTC dev-room talks are 20 minutes this year with a 5 minute
+break between speakers
+
 - you can use the address
 fosdem-rtc-admin@freertc.org to contact the dev-room admins
 about talks - please reply on that address
@@ -18,10 +21,6 @@ about talks - please reply on that address
 
 - please tell us (or update your notes in pentabarf) if you have
 availability / time constraints on 4 February
-
-- main tracks are scheduled, dev-room talks are not.  Main tracks are 50
-minutes.  All RTC dev-room talks are 20 minutes this year with a 5 minute
-break between speakers.
 
 - please update your personal description and talk description in the
 pentabarf system before we make them public.  You can use the wiki markup
