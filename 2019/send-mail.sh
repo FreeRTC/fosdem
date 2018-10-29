@@ -10,6 +10,7 @@ do
 
   cat $MSG_BODY | \
     mail -s "$SUBJECT" \
+        -r "fosdem-rtc-admin@freertc.org" \
         -a "From: FOSDEM RTC Team <fosdem-rtc-admin@freertc.org>" \
         -a "Content-Type: text/plain; charset=UTF-8" \
         "$REPLY"
