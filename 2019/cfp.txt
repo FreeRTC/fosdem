@@ -153,4 +153,5 @@ The dev-room administration team:
   Ralph Meijer <ralphm@ik.nu>
   Daniel-Constantin Mierla <miconda@gmail.com>
   Daniel Pocock <daniel@pocock.pro>
+  Guus der Kinderen <guus.der.kinderen@gmail.com>
 
