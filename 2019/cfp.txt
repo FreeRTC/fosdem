@@ -24,8 +24,8 @@ participants for the tables in the Real-Time lounge.
 The dev-room is only on Sunday, 3rd of February 2019.  The lounge will
 be present for both days.
 
-To discuss the dev-room and lounge, please join the FSFE-sponsored
-Free RTC mailing list: https://lists.fsfe.org/mailman/listinfo/free-rtc
+To discuss the dev-room and lounge, please join the
+Free RTC mailing list: http://lists.freertc.org/mailman/listinfo/discuss
 
 To be kept aware of major developments in Free RTC, without being on the
 discussion list, please join the Free-RTC Announce list:
@@ -101,7 +101,7 @@ volunteers:
 - FOSDEM provides video recording equipment and live streaming,
   volunteers are needed to assist in this
 - organizing one or more restaurant bookings (dependending upon number of
-  participants) for the evening of Saturday, 3rd of February
+  participants) for the evening of Saturday, 2nd of February
 - participation in the Real-Time lounge
 - helping attract sponsorship funds for the dev-room to pay for the
   Saturday night dinner and any other expenses
@@ -117,7 +117,7 @@ each of the dev-rooms.  Most restaurants in Brussels are not so
 large so these dinners have space constraints and reservations are
 essential.  Please subscribe to the Free-RTC mailing list for
 further details about the Saturday night dinner options and how
-you can register for a seat: https://lists.fsfe.org/mailman/listinfo/free-rtc
+you can register for a seat: http://lists.freertc.org/mailman/listinfo/discuss
 
 Spread the word and discuss
 ===========================
@@ -145,7 +145,7 @@ Contact
 For any private queries, contact us directly using the address
 fosdem-rtc-admin@freertc.org and for any other queries please ask on
 the Free-RTC mailing list:
-https://lists.fsfe.org/mailman/listinfo/free-rtc
+http://lists.freertc.org/mailman/listinfo/discuss
 
 The dev-room administration team:
 
