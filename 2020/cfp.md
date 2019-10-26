@@ -19,8 +19,8 @@ This document contains information about:
 
 The Real-Time dev-room and Real-Time lounge are about all things involving
 real-time communication, including: XMPP, SIP, WebRTC, telephony,
-mobile VoIP, codecs, peer-to-peer, privacy and encryption.  The dev-room
-is a successor to the previous XMPP and telephony dev-rooms.
+mobile VoIP, codecs, peer-to-peer, privacy and encryption.
+
 **We are looking for speakers for the dev-room and volunteers and
 participants for the tables in the Real-Time lounge.**
 
@@ -105,6 +105,12 @@ essential.  Please subscribe to the [Free-RTC mailing list] for
 further details about the Saturday night dinner options and how
 you can register for a seat.
 
+## Related events around FOSDEM
+
+As per usual, the [XMPP Summit] is happening ahead of FOSDEM. This time it will
+take place on the 30th and 31st of January also in Brussels. All details
+are available on the [summit website].
+
 ## Spread the word and discuss
 
 If you know of any mailing lists where this CfP would be relevant, please
@@ -141,3 +147,5 @@ The dev-room administration team:
 [Pentabarf]: https://penta.fosdem.org/submission/FOSDEM20/
 [full list of dev-rooms]: https://www.fosdem.org/2020/schedule/tracks/
 [lightning talk]: https://fosdem.org/submit
+[XMPP Summit]: https://wiki.xmpp.org/web/Conferences/Summit_24
+[summit website]: https://wiki.xmpp.org/web/Conferences/Summit_24
