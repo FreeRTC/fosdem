@@ -2,8 +2,8 @@
 
 MSG_BODY=cfp.txt
 #MSG_BODY=talk-reminder.txt
-SUBJECT="[CFP] FOSDEM 2019, RTC devroom, speakers, volunteers neeeded"
-#SUBJECT="[CFP] reminder! FOSDEM RTC dev-room talks: deadline Friday"
+SUBJECT="[CFP] FOSDEM 2020, RTC devroom, speakers, volunteers neeeded"
+#SUBJECT="[CFP] reminder! FOSDEM RTC dev-room talks: deadline Sunday"
 
 cat mailing-lists.txt | cut -f1 -d, | while read ;
 do

@@ -42,7 +42,7 @@ coordinate.
 - If you would like to be included in any of the planet sites, please
 contact Ralph or Daniel as described in the call for participation[5]
 
-- You can use the address fosdem2019-rtc-speakers@freertc.org to
+- You can use the address fosdem2020-rtc-speakers@freertc.org to
 contact all speakers, but please use the public Free-RTC mailing list
 whenever possible.
 
@@ -65,7 +65,7 @@ The FOSDEM RTC Devroom team.
 
 1. http://pentabarf.org/Markup_Language
 4. https://lists.fsfe.org/mailman/listinfo/free-rtc
-5. https://danielpocock.com/fosdem-2019-rtc-cfp
-6. https://fosdem.org/2019/practical/conduct/
-7. https://fosdem.org/2019/schedule/track/real_time_communications_rtc/
+5. https://danielpocock.com/fosdem-2020-rtc-cfp
+6. https://fosdem.org/2020/practical/conduct/
+7. https://fosdem.org/2020/schedule/track/real_time_communications_rtc/
 
