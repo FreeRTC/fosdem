@@ -94,7 +94,7 @@ volunteers:
 - FOSDEM provides video recording equipment and live streaming,
   volunteers are needed to assist in this
 - Organizing one or more restaurant bookings (dependending upon number of
-  participants) for the evening of Saturday, 2nd of February
+  participants) for the evening of Saturday, 1 February
 - Participation in the Real-Time lounge
 - Circulating this Call for Participation to other mailing lists
 
@@ -124,10 +124,10 @@ about it, especially if you are submitting a talk.
 If you regularly blog about RTC topics, please send details about your
 blog to the planet site administrators:
 
-- All projects    http://planet.freertc.org       planet@freertc.org
+- All projects    https://planet.freertc.org      planet@freertc.org
 - XMPP            https://planet.jabber.org       ralphm@ik.nu
-- SIP             http://planet.sip5060.net       planet@sip5060.net
-  - (Español)     http://planet.sip5060.net/es/   planet@sip5060.net
+- SIP             https://planet.sip5060.net      planet@sip5060.net
+  - (Español)     https://planet.sip5060.net/es/  planet@sip5060.net
 
 Please also link to the Planet sites from your own blog or web site as
 this helps everybody in the free real-time communications community.
