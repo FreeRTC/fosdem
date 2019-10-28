@@ -12,8 +12,7 @@ MESSAGE_ID="<${THE_UUID}@freertc.org>"
 
 cat $MSG_BODY | \
     mail -s "$SUBJECT" \
-        -r "fosdem-rtc-admin@freertc.org" \
-        -a "From: FOSDEM RTC Team <fosdem-rtc-admin@freertc.org>" \
+        -r "FOSDEM RTC Team <fosdem-rtc-admin@freertc.org>" \
         -a "Content-Type: text/plain; charset=UTF-8" \
         -a "Message-Id: ${MESSAGE_ID}" \
         discuss@lists.freertc.org
@@ -23,8 +22,7 @@ do
 
   cat $MSG_BODY | \
     mail -s "Fwd: $SUBJECT" \
-        -r "fosdem-rtc-admin@freertc.org" \
-        -a "From: FOSDEM RTC Team <fosdem-rtc-admin@freertc.org>" \
+        -r "FOSDEM RTC Team <fosdem-rtc-admin@freertc.org>" \
         -a "Content-Type: text/plain; charset=UTF-8" \
         -a "References: ${MESSAGE_ID}" \
         "$REPLY"
