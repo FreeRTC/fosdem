@@ -15,6 +15,10 @@ This document contains information about:
   provide endless networking opportunities)
 - the Planet aggregation sites for RTC blogs
 
+**NEW:** Save yourself entering Free-RTC events and CFP deadlines into your
+calendar and task list, follow our iCalendar feed:
+https://freertc.org/events.ics
+
 ## Call for participation - Real Time Communications (RTC)
 
 The Real-Time devroom and Real-Time lounge are about all things involving
