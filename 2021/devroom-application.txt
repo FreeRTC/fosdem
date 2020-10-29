@@ -1,0 +1,34 @@
+Title
+-----
+Real Time Communications (RTC)
+
+
+Description
+-----------
+The Real-Time devroom is about all
+things involving communicating in  real-time, including: XMPP, SIP, other signaling
+protocols, WebRTC, telephony, mobile VoIP, codecs, peer-to-peer, privacy and
+encryption. It's focused on in-depth technical topics about all the above, including
+Open Source projects in any of their realms.
+
+
+Why does it fit FOSDEM
+----------------------
+Communicating is something us humans do every single day in different
+capacities.  Both for personal and business reasons, and as Free Software
+enthusiasts it's important to keep our conversations under our own control.
+
+We've seen companies shut down services which people relied on (Google Talk),
+damaging Open Standards in the process (XMPP).
+
+These days tons of private communication happens through the services offered
+by private, for-profit, and privacy endangering companies such as Facebook.
+
+FOSDEM is a great place to show others that a different way is possible and
+that we have the technology, capability and existing projects to control our
+own communications.
+
+Moreover, and with the COVID-19 pandemic still not over, tons of interaction
+has moved to an online capacity, and making sure such interactions occur using
+Open Source software which provides the necessary privacy and security aspects
+is more important than ever. 
