@@ -1,0 +1,83 @@
+
+We'd like to thank you for your enthusiasm to participate and confirm
+that we are accepting your talk in the Real Time Communications devroom.
+
+Devroom talks are all day on Saturday, 6th February.
+
+What now?
+=========
+
+This year is a special one due to the online nature of FOSDEM. Please be sure
+to ask any questions you may have.
+
+- All RTC devroom talks are 20 minutes this year, prerecorded as you know, with
+a 5 minute live Q&A afterwards. Check your allocated slot in the schedule [0]
+and let us know (details below) if you can't make it for the live Q&A.
+
+- You can find some resources for recording your talk at the end of this email.
+
+- You can use the address
+fosdem-rtc-admin@freertc.org to contact the devroom admins
+about talks - please reply on that address.
+
+- Please reply to advise if you are unable to record you talk on time.
+
+- Please update your personal description and talk description in the
+pentabarf system before we publicize them.  You can use the wiki markup
+syntax[1] supported by Pentabarf to create links from the descriptions
+to your own project web-sites and we would encourage you to make good use
+of this.  You can continuously update the profile after it goes public,
+the site is refreshed from time to time throughout the day and then it
+is archived when FOSDEM finishes.
+
+- We will promote the schedule (both main track and devroom) over the
+next few weeks, using blogs, the Free-RTC mailing list and the FOSDEM
+web site, please help to share the links within your community as they
+appear.
+
+- Please use the Free-RTC list[2] to discuss any other aspect of RTC
+at FOSDEM.
+
+- Please be aware FOSDEM has adopted a Code of Conduct[3] and the
+devroom administrators fully support this.  As volunteers and speakers,
+people will be looking to our example.  Furthermore, this means that if
+something awkward happens, it comes down to us to be first to act and
+show leadership.  Please feel free to ask any questions about this topic
+through the main FOSDEM mailing list.
+
+
+Recording your talk
+===================
+
+There currently is no set deadline, but we'd like to make sure all recordings
+are uploaded before the 29th of January.
+
+The RTC devroom team can help you record your talk by recording a live session
+with a host, reach out if you'd like to record your talk in this manner.
+
+The FOSDEM team has put together a guide at [4] to help you self record your
+talk.
+
+You can also use an online video conferencing tool such as Jitsi [5] to do
+your own recording.
+
+In [6] you can check a video guide on how to use OBS to make your own recording.
+
+If you have any questions don't hesitate to contact us!
+
+
+
+We are delighted to have received such exciting proposals and look
+forward to collaborating with you over the weeks ahead.
+
+Regards,
+
+The FOSDEM RTC Devroom team.
+
+0. https://fosdem.org/2021/schedule/track/real_time_communications/
+1. http://pentabarf.org/Markup_Language
+2. https://lists.fsfe.org/mailman/listinfo/free-rtc
+3. https://fosdem.org/2020/practical/conduct/
+4. https://github.com/FOSDEM/video/wiki/FOSDEM-2021-video-email-to-speakers
+5. https://meet.jit.si
+6. https://peertube.xwiki.com/videos/watch/c5cf50e3-2277-440a-b339-34874acd00b3
