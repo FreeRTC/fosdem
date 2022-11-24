@@ -114,4 +114,4 @@ The devroom administration team:
 
 [FOSDEM]: https://fosdem.org
 [Free-RTC mailing list]: http://lists.freertc.org/mailman/listinfo/discuss
-[Pentabarf]: https://penta.fosdem.org/submission/FOSDEM21/
+[Pentabarf]: https://penta.fosdem.org/submission/FOSDEM23/
