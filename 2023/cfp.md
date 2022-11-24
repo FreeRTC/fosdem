@@ -28,8 +28,8 @@ To discuss the devroom, volunteer or ask questions, please join the
 
 ### Key dates
 
-- 27th November: Submission deadline
-- 19th December: Announcement of selected talks
+- 14th November: Submission deadline
+- 21th December: Announcement of selected talks
 - 4-5 February: Conference date
 
 ### Speaking opportunities
@@ -108,10 +108,9 @@ the [Free-RTC mailing list].
 The devroom administration team:
 
 - Saúl Ibarra Corretgé <s@saghul.net>
-- Ralph Meijer <ralphm@ik.nu>
 - Daniel-Constantin Mierla <miconda@gmail.com>
-- Daniel Pocock <daniel@pocock.pro>
 - Lorenzo Miniero <lminiero@gmail.com>
+- Ralph Meijer <ralphm@ik.nu>
 
 [FOSDEM]: https://fosdem.org
 [Free-RTC mailing list]: http://lists.freertc.org/mailman/listinfo/discuss
