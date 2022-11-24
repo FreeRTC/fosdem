@@ -34,9 +34,7 @@ To discuss the devroom, volunteer or ask questions, please join the
 
 ### Speaking opportunities
 
-Note: if you used FOSDEM Pentabarf before, please use the same account/username
-
-Real-Time Communications devroom: deadline 23:59 UTC on 27th of November.
+Note: if you used FOSDEM Pentabarf before, please use the same account/username.
 
 Please use the [Pentabarf] system to submit a talk proposal for the
 devroom. On the "General" tab, please look for the "Track" option and
