@@ -28,7 +28,7 @@ To discuss the devroom, volunteer or ask questions, please join the
 
 ### Key dates
 
-- 14th November: Submission deadline
+- 14th December: Submission deadline
 - 21th December: Announcement of selected talks
 - 4-5 February: Conference date
 
