@@ -1,0 +1,47 @@
+
+We'd like to thank you for your enthusiasm to participate and confirm
+that we are accepting your talk in the Real Time Communications devroom.
+
+Devroom talks are on the second half of Sunday, 5th February.
+
+What now?
+=========
+
+- Due to the short time available (we only have half a day, this year),
+most RTC dev-room talks are 15 minutes this year, with a 5 minute break
+between speakers, while a few will be back-to-back 10 minutes lightning
+talks.  Due to the large number of talks these times will be strictly
+enforced and we ask for your ful cooperation to make the process as
+smooth as possible during each changeover.  Check your allocated slot
+in the schedule [1] and let us know if that causes any conflict for you.
+
+- Please reply to advise if you are still coming or not, as the devroom
+will be on site only for presenters.
+
+- Please update your personal description and talk description in the
+pentabarf system before we publicize them.  You can use the wiki markup
+syntax supported by Pentabarf to create links from the descriptions to
+your own project web-sites and we would encourage you to make good use
+of this.  You can continuously update the profile after it goes public,
+the site is refreshed from time to time throughout the day and then it
+is archived when FOSDEM finishes.
+
+- Everybody is welcome to participate in the Real-Time lounge on both
+days of FOSDEM.
+
+- Please be aware FOSDEM has adopted a Code of Conduct[2] and the
+devroom administrators fully support this.  As volunteers and speakers,
+people will be looking to our example.  Furthermore, this means that if
+something awkward happens, it comes down to us to be first to act and
+show leadership.  Please feel free to ask any questions about this topic
+through the main FOSDEM mailing list.
+
+We are delighted to have received such exciting proposals and look
+forward to collaborating with you over the weeks ahead.
+
+Regards,
+
+The FOSDEM RTC Devroom team.
+
+1. https://fosdem.org/2023/schedule/track/real_time_communications/
+2. https://fosdem.org/2023/practical/conduct/
