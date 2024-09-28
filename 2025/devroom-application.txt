@@ -1,0 +1,57 @@
+Title
+-----
+Real Time Communications (RTC)
+
+
+Description
+-----------
+The Real-Time devroom is about all
+things involving communicating in  real-time, including: XMPP, SIP, other signaling
+protocols, WebRTC, broadcasting, telephony, mobile VoIP, codecs, peer-to-peer, privacy,
+encryption and AI agents. It's focused on in-depth technical topics about all the above,
+including Open Source projects in any of their realms.
+
+
+Why does it fit FOSDEM
+----------------------
+Communicating is something us humans do every single day in different
+capacities.  Both for personal and business reasons, and as Free Software
+enthusiasts it's important to keep our conversations under our own control.
+
+We've seen companies shut down services which people relied on (Google Talk),
+damaging Open Standards in the process (XMPP).
+
+These days tons of private communication happens through the services offered
+by private, for-profit, and privacy endangering companies such as Meta or Google.
+
+FOSDEM is a great place to show others that a different way is possible and
+that we have the technology, capability and existing projects to control our
+own communications.
+
+Moreover, after the pandemic hit, tons of interaction moved to an online
+capacity, and making sure such interactions occur using Open Source software
+which provides the necessary privacy and security aspects is more important
+than ever. 
+
+
+Submitters affinity to the topic
+--------------------------------
+Saúl has been working on the Real Time Communications space for almost 2 decades and
+it's currently working full time on a prominent project in that space: Jitsi.
+In addition, he has been co-organizing the RTC devroom since its inception and
+participating in other conferences around the world.
+
+Lorenzo has been working in the Real Time Communications space since his PhD thesis,
+which resulted in the Janus project he has been leading for over a decade. He has vast
+experience in the RTC space and has been co-organizing the devroom for the past
+few years.
+
+
+Relevant URLs
+-------------
+- Free-RTC mailing list: http://lists.freertc.org/mailman/listinfo/discuss
+- Discuss WebRTC: https://groups.google.com/g/discuss-webrtc
+- XMPP community chats: https://xmpp.org/community/chat/
+- Planet SIP: https://planet.sip5060.net/
+- WebRTC for the Curious: https://webrtcforthecurious.com/
+- Video-Dev: https://www.video-dev.org/
